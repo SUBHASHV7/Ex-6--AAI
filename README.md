@@ -19,7 +19,7 @@ Step 5:Iterate through each word in the tokenized text.<br>
 ## Program:
 
 
-```
+```py
 import nltk
 from nltk.corpus import wordnet
 
